@@ -3,4 +3,6 @@ tensorflow
 numpy
 pillow
 gdown
- 
+opencv-python-headless
+scikit-learn
+matplotlib
