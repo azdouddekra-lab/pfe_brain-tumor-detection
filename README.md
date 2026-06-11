@@ -1,2 +1,2 @@
 # pfe_brain-tumor-detection
-this application uses deap learning to clasify brain tumers 
+this application uses deep learning to clasify brain tumers 
